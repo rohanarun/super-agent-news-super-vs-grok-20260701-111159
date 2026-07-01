@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[securityaffairs.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF)",
+    "[techtimes.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRG1WQVpfei1objFTVWxwQjYzUFZVMHZCMmxEclc0d1FhcmFyMkZ6NkRPd2owRVZZT2NvZUhNRzY3QzNrM2V1YjUtb2wwbW5NZ0V2NllIeURQT0l1RW5zNk5fb2hYSWt4ajR3R1BfcnFLbFQtVmJxbllpRGxEV2U4bDR0clNoR2hUbGFIWlpTRUd5a1NZZVZzSE1DWDBCd05aQU43LUtFQ0FNbnlfcmlWMVdUNUdGSUdVTzVNaURPdDFGd3ly)",
+    "[basenor.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHdhbGYydlBMRkRkbU1ZLVp0S0djb0w2QkRKVjMyN2I1ek1Vb0xDVU1jT1hfZWtFdElhaGs4VFBOQnp4RVpWNEVMRUR5Wm5zQ001ai0xcFc0c3QwUWxCV1RDc3ZCcVRXaWdfS0pySzFtcEUtWVZXMFoxUkJIVHZ5WkhuWUpQdGhlUGVxeFR0ODEwX0YwcTBpM0NR)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0)",
+    "[ndtvprofit.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjU5NV8wbzNQVFZGQTZFNGFZd3F0Y3Y2QllNZUFIQVd4WHIyMTlLa0dFaXhTcHpFcFk5OEJfcWFqMnpNZUR1QmZkcE1jc3M3ZWNKaE51S0VsOGE2THJXUXhhWXUtdFFnMW9jd2dXQVpINUFldjkzLXZEZ1NTVmdraUZXZi1fSXlkNk9LdTNia2F2MDVJc0t2ekNBVVdZY2gyenZmR1VEdjlLVlNhbGNMd0NpYTVhRGFnSERYVVF1Xy1iYmvS)",
+    "[free.ai](https://free.ai/code/css/)",
+    "[stablenumbers.com](https://stablenumbers.com/devtools/stylesheet-generator.php)"
+  ],
+  "design_plan": "rng=1337; hero_math:max1120px_2-3lines; AIDA=pass; bento_density=grid-auto-flow:dense; label_sweep=competitors_mentioned; button_contrast=ink_on_white_and_white_on_ink_ok",
+  "generated_at": "2026-07-01T11:12:06.455850+00:00",
+  "headline": "Super vs Grok \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "Grok is an opinionated AI assistant tightly connected to X and real\u2011time data, with early agentic and automation experiments in private beta. Super is built for people who want a personal AI agent that actually operates computers \u2014 and reuses a computer-use cache so repeated workflows get faster and cheaper over time. This page compares what Grok is for today, where it\u2019s heading, and why Super is the sharper alternative for durable computer\u2011use workflows."
+}
